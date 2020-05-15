@@ -1,0 +1,34 @@
+{
+    "name": "koot-cli-kit",
+    "version": "0.0.1",
+    "description": "Codes, CLI-tools,... for Koot.js app and more",
+    "main": "index.js",
+    "sideEffects": false,
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/cmux/koot-cli"
+    },
+    "keywords": [
+        "koot",
+        "cli"
+    ],
+    "author": {
+        "name": "diablohu",
+        "email": "diablohudream@gmail.com",
+        "url": "http://diablohu.com"
+    },
+    "contributors": [],
+    "bugs": {
+        "url": "https://github.com/cmux/koot-cli/issues"
+    },
+    "homepage": "https://github.com/cmux/koot-cli",
+    "engines": {
+        "node": ">=10.13.0"
+    },
+    "license": "Apache-2.0",
+    "dependencies": {
+        "ora": "^4.0.4"
+    },
+    "devDependencies": {}
+}
