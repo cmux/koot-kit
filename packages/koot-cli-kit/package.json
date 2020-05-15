@@ -1,6 +1,6 @@
 {
     "name": "koot-cli-kit",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Codes, CLI-tools,... for Koot.js app and more",
     "main": "index.js",
     "sideEffects": false,
@@ -29,6 +29,5 @@
     "license": "Apache-2.0",
     "dependencies": {
         "ora": "^4.0.4"
-    },
-    "devDependencies": {}
+    }
 }
