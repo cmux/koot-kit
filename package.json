@@ -28,16 +28,16 @@
     "license": "Apache-2.0",
     "dependencies": {},
     "devDependencies": {
-        "eslint": "^7.0.0",
+        "eslint": "^7.1.0",
         "eslint-config-koot": "^1.7.1",
         "husky": "^4.2.5",
         "inquirer": "^7.1.0",
         "jest": "^26.0.1",
-        "lerna": "^3.20.2",
+        "lerna": "^3.22.0",
         "lerna-wizard": "^1.1.1",
-        "lint-staged": "^10.2.2",
+        "lint-staged": "^10.2.9",
         "prettier": "^2.0.5",
-        "prettier-eslint": "^9.0.1"
+        "prettier-eslint": "^10.1.1"
     },
     "husky": {
         "hooks": {
