@@ -3,7 +3,7 @@
     "scripts": {
         "bootstrap": "node ./bootstrap.js",
         "publish": "node ./publish.js",
-        "test": "jest"
+        "test": "jest "
     },
     "repository": {
         "type": "git",
