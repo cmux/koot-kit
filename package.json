@@ -28,16 +28,16 @@
     "license": "Apache-2.0",
     "dependencies": {},
     "devDependencies": {
-        "eslint": "^7.0.0",
-        "eslint-config-koot": "^1.7.1",
-        "husky": "^4.2.5",
-        "inquirer": "^7.1.0",
-        "jest": "^26.0.1",
-        "lerna": "^3.20.2",
+        "eslint": "^7.32.0",
+        "eslint-config-koot": "^3.1.1",
+        "husky": "^7.0.2",
+        "inquirer": "^8.1.2",
+        "jest": "^27.1.0",
+        "lerna": "^4.0.0",
         "lerna-wizard": "^1.1.1",
-        "lint-staged": "^10.2.2",
-        "prettier": "^2.0.5",
-        "prettier-eslint": "^9.0.1"
+        "lint-staged": "^11.1.2",
+        "prettier": "^2.3.2",
+        "prettier-eslint": "^13.0.0"
     },
     "husky": {
         "hooks": {
