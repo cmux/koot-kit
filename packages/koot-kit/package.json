@@ -1,6 +1,6 @@
 {
     "name": "koot-kit",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "Codes, templates, CLI-tools, JSX components,... for Koot.js app and more",
     "main": "index.js",
     "sideEffects": false,
@@ -28,6 +28,6 @@
     },
     "license": "Apache-2.0",
     "dependencies": {
-        "koot-cli-kit": "^0.0.2"
+        "koot-cli-kit": "^0.0.3"
     }
 }

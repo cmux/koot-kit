@@ -1,6 +1,6 @@
 {
     "name": "koot-cli-kit",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "Codes, CLI-tools,... for Koot.js app and more",
     "main": "index.js",
     "sideEffects": false,
